@@ -20,3 +20,13 @@ To add new packages
 ```
  pip install -r Requirements.txt
 ```
+
+# Deploying your function
+Setting up the project ID
+```commandline
+gcloud config set project [yourproject_ID]
+```
+Deploying function
+```commandline
+ gcloud functions deploy [function_name] --runtime python37 --trigger-http
+```
