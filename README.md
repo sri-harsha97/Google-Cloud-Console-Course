@@ -6,7 +6,7 @@ To start a new project in Google Cloud , we can go to
 
 Postman,for testing APIs, can be downloaded through this [link](https://www.postman.com/downloads/).
 
-Basic CRUD operations in firestore are available in this [video](https://www.youtube.com/watch?v=N0j6Fe2vAK4&t=1331s).
+Basic CRUD operations in firestore are available in this [video](https://www.youtube.com/watch?v=N0j6Fe2vAK4&t=1331s) and in this Github [link](https://github.com/sri-harsha97/firestoretutorial).
 ## Creating a Virtual Environment
 First we have to install `python3-venv` with the following command:
 ```commandline
