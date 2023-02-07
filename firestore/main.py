@@ -1,3 +1,6 @@
+"""
+This function stores a timestamp and a random integer in the database everytime the page is triggered.
+"""
 import firebase_admin
 from firebase_admin import firestore
 
