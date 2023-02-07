@@ -1,2 +1,5 @@
 .idea/
 venv/
+.env/
+cloud-credentials.json/
+.DS_Store/
